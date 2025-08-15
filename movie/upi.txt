@@ -1,0 +1,3 @@
+sab@hdfc,1111,399.9
+nithis@icici,000,9.300
+piranow@sbi,2003,2646.99
